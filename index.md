@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Calvin University Senior Project
 
 You can use the [editor on GitHub](https://github.com/ajs2440/ajs244.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
